@@ -1,1 +1,1 @@
-# kissmetrics_clone
+# kissmetrics-clone
